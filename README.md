@@ -33,7 +33,7 @@ Built using D3.js and Node.js, this project enables users to explore historical 
 
 | Name            | Tasks Contributed                     |
 |-----------------|---------------------------|
-| Takeu SONODA   | - Contributed Development for Choropleth Map<br>- build a server and deploy throughout this project          |
+| Takeu SONODA   | - Contributed Development for Choropleth Map<br>- Built a server and deployed throughout this project          |
 | Yong Cia Chean    | - Contributed ideas for Choropleth Map<br>- Coded the initial design of Water Resource chart<br>- Coded the initial design of Water Abstraction chart            |
 
 
